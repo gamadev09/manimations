@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,205.819163,50.075157)">
+        <path d="M30.747,420.085L30.747,509.372L78.096,559.765L99.065,559.765L99.403,477.58L30.747,420.085Z" style="fill:white;stroke:black;stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,204.819163,50.075157)">
+        <path d="M103.462,477.918L102.447,559.765L170.089,509.372L170.765,420.085L103.462,477.918Z" style="fill:rgb(195,192,192);stroke:black;stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,206.819163,50.075157)">
+        <path d="M170.765,510.048L220.482,559.765L240.774,559.765L241.112,474.198L170.765,420.085L170.765,510.048Z" style="fill:white;stroke:black;stroke-width:1px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,186.115401,44.85573)">
+        <g transform="matrix(118.717674,0,0,118.717674,658.361475,540)">
+        </g>
+        <text x="275.717px" y="540px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:118.718px;">Passify</text>
+    </g>
+</svg>

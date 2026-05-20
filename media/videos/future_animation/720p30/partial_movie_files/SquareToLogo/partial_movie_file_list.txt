@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/GamalielVelasquez/manimations/media/videos/future_animation/720p30/partial_movie_files/SquareToLogo/4042664160_254672102_223132457.mp4'
+file 'file:C:/Users/GamalielVelasquez/manimations/media/videos/future_animation/720p30/partial_movie_files/SquareToLogo/156567889_2574473371_906009978.mp4'
+file 'file:C:/Users/GamalielVelasquez/manimations/media/videos/future_animation/720p30/partial_movie_files/SquareToLogo/156567889_1223702503_1623123676.mp4'
+file 'file:C:/Users/GamalielVelasquez/manimations/media/videos/future_animation/720p30/partial_movie_files/SquareToLogo/156567889_3361345686_2375220172.mp4'
+file 'file:C:/Users/GamalielVelasquez/manimations/media/videos/future_animation/720p30/partial_movie_files/SquareToLogo/156567889_2872842549_1607658877.mp4'
