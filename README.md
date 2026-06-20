@@ -10,12 +10,6 @@ The goal of this project is to practice creating mathematical and programmatic a
 * **Animations from Scratch:** Combining core geometric shapes (circles, lines, polygons) and using custom update functions to build unique motion.
 * **Math and Logic:** Transforming equations, graphs, and code into visual explanations.
 
-## Animation List
-
-1. **Animation Name 1** - Brief description (e.g., Simple SVG logo morph).
-2. **Animation Name 2** - Brief description (e.g., Custom bouncing shape from scratch).
-3. *[Update this list as you create more animations]*
-
 ## Getting Started
 
 ### Prerequisites
