@@ -20,4 +20,4 @@ You need Python and Manim installed on your system. You can follow the official 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/gamadev09/your-repo-name.git
+   git clone https://github.com/gamadev09/manimations.git
